@@ -15,7 +15,7 @@ Here are some screenshots from my Habit Tracker App built using **Flutter (Dart)
 
 
 ### 📈 Time Box Method
-![Progress Tracker]![image](https://github.com/user-attachments/assets/0ceab2c7-6177-4de4-a606-36dcfa8407b7)
+![image](https://github.com/user-attachments/assets/0ceab2c7-6177-4de4-a606-36dcfa8407b7)
 
 
 
